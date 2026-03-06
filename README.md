@@ -4,7 +4,7 @@ Official implementation for **DiffLLFace: Learning Alternate Illumination-Diffus
 
 
 ## 📰 News
-
+- **🔥🔥🔥2026.03.06**: Training code is now available.
 - **🔥🔥🔥2026.03.05**: Testing code and pre-trained models have been released.
 - **🔥🔥🔥2026.02.28**: The DiffLLFace paper was accepted by **IEEE TIP**.
 
