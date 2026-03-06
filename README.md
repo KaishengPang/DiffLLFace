@@ -10,6 +10,8 @@ Official implementation for **DiffLLFace: Learning Alternate Illumination-Diffus
 
 ## 📝 Abstract
 
+![teaser](./assets/teaser.png)
+
 Facial image acquisition under constrained illumination and with limited-resolution imaging devices often results in coupled photometric and geometric degradations, manifesting as low-light and low-resolution (LLR) conditions. Prevailing research predominantly follows fragmented optimization paradigms that address low-light image enhancement (LLIE) and face super-resolution (FSR) as isolated tasks. This approach overlooks the compound nature of the degradations, thereby significantly limiting their applicability in practical scenarios. To bridge this gap, we present DiffLLFace, a unified framework that harnesses diffusive generative capabilities with illumination-aware trajectories to achieve robust FSR from LLR observations. The core of our method lies in its alternate illumination-diffusion adaptation, which operates throughout the generation process. This mechanism not only captures degradation patterns in both brightness and structure to harmonize latent representations but also dynamically calibrates the illumination prior with the generative knowledge inherent to diffusion models. As such, DiffLLFace attains precise control over conditional adaptation and illumination rectification. We further devise a simple yet effective non-parametric Fourier enhancement strategy, which provides structural appearance clues that work in concert with the alternate adaptation to ensure texture and color consistency. Extensive experiments demonstrate the superiority of DiffLLFace over existing methods and remarkable generalizability on complex natural scenes.
 
 ## 🔧 Pipeline
