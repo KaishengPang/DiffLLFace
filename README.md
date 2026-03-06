@@ -65,6 +65,21 @@ We provide the pre-trained models:
 - ControlNet **[[Baidu Drive]](https://pan.baidu.com/s/1LSx0An5kCzBGLAKrwkkscg?pwd=ksks)**.
   Place it in `./models/`.
 
+## 🚀 Train
+
+Before training, edit these variables in `train.py`:
+
+- `GT_images`: glob path for GT/HR training images
+- `LLR_images`: glob path for low-light LR training images
+- `name`: experiment/checkpoint name prefix
+
+Run training:
+
+```bash
+python train.py
+```
+
+Checkpoints are saved to `checkpoints/`.
 
 ## 🔍 Test
 
