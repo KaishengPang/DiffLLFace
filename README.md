@@ -100,7 +100,8 @@ python test.py
 ## 📖 Cite
 If you find our work helpful, please consider citing our paper.
 
-> @ARTICLE{11433197,
+```
+@ARTICLE{11433197,
   author={Cong, Runmin and Pang, Kaisheng and Li, Feng and Li, Hua and Bai, Huihui and Kwong, Sam and Zhang, Wei},
   journal={IEEE Transactions on Image Processing}, 
   title={DiffLLFace: Learning Alternate Illumination-Diffusion Adaptation for Low-Light Face Super-Resolution and Beyond}, 
@@ -109,3 +110,4 @@ If you find our work helpful, please consider citing our paper.
   number={},
   pages={2499-2512},
 }
+```
