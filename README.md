@@ -5,6 +5,7 @@ Official implementation for **DiffLLFace: Learning Alternate Illumination-Diffus
 
 
 ## 📰 News
+- **🔥🔥🔥2026.08.21**: We have added a OneDrive link for the pre-trained model weights.
 - **🔥🔥🔥2026.03.06**: Training code is now available.
 - **🔥🔥🔥2026.03.05**: Testing code and pre-trained models have been released.
 - **🔥🔥🔥2026.02.28**: The DiffLLFace paper was accepted by **IEEE TIP**.
@@ -63,9 +64,9 @@ dataset/
 
 We provide the pre-trained models:
 
-- CelebAMask-HQ **[[Baidu Drive]](https://pan.baidu.com/s/1bthLSIJLZenL4QenSQsICw?pwd=ksks)**.
+- CelebAMask-HQ **[[Baidu Drive]](https://pan.baidu.com/s/1bthLSIJLZenL4QenSQsICw?pwd=ksks)** **[[OneDrive]](https://hkustgz-my.sharepoint.com/:u:/g/personal/kpang272_connect_hkust-gz_edu_cn/IQAeiTdr6ZtmQK_riCZ46JDlAeiVD8xxuZUR0S3YcHaR9tw?e=09AYXD)**.
   Place it in `./checkpoints/`.
-- ControlNet **[[Baidu Drive]](https://pan.baidu.com/s/1LSx0An5kCzBGLAKrwkkscg?pwd=ksks)**.
+- ControlNet **[[Baidu Drive]](https://pan.baidu.com/s/1LSx0An5kCzBGLAKrwkkscg?pwd=ksks)** **[[OneDrive]](https://hkustgz-my.sharepoint.com/:u:/g/personal/kpang272_connect_hkust-gz_edu_cn/IQAN0zaAY-lJTK8_V9phcLo_Aa3u4RraG0t2v7OPCPg3hh8)**.
   Place it in `./models/`.
 
 ## 🚀 Train
