@@ -55,7 +55,7 @@ dataset/
     test/
       LLR_x16/
 ```
-- CelebAMask-HQ **[[Baidu Drive]](https://pan.baidu.com/s/11H8F7q1H6AZlL-iNNGQvzQ?pwd=ksks)** **[[OneDrive]](https://hkustgz-my.sharepoint.com/:f:/g/personal/kpang272_connect_hkust-gz_edu_cn/IgB9pRYs7qFhSr2fLBzxiIEiAc-No_Qp61N04nH4x6KVm6Q?e=xc7lDN)**.
+- CelebAMask-HQ **[[Baidu Drive]](https://pan.baidu.com/s/11H8F7q1H6AZlL-iNNGQvzQ?pwd=ksks)** **[[OneDrive]](https://hkustgz-my.sharepoint.com/:u:/g/personal/kpang272_connect_hkust-gz_edu_cn/IQAtBpkxKLokRYA-F2LfK7S-AdOmnaMOr0KheGOEK82eWi8?e=PcPPrQ)**.
 - Training uses paired images from `dataset/CelebA/train/HR` and `dataset/CelebA/train/LLR_x16` (same filenames after sorting).
 - Testing reads low-light LR images from `dataset/CelebA/test/LLR_x16`.
 
